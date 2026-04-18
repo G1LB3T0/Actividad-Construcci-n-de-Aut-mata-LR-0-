@@ -117,7 +117,3 @@ CALCULANDO CERRADURA
 .
 └── cerradura.py    # Script principal con toda la implementación
 ```
-
-## Licencia
-
-Proyecto académico — uso educativo.
